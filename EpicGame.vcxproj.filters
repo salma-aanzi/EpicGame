@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\hp\Desktop\EpicGame\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MainMenuScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hp\Desktop\EpicGame\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hp\Desktop\EpicGame\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PauseScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameOverScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\hp\Desktop\EpicGame\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MainMenuScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hp\Desktop\EpicGame\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hp\Desktop\EpicGame\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hp\Desktop\EpicGame\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hp\Desktop\EpicGame\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hp\Desktop\EpicGame\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hp\Desktop\EpicGame\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hp\Desktop\EpicGame\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hp\Desktop\EpicGame\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PauseScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameOverScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hp\Desktop\EpicGame\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\hp\Desktop\EpicGame\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{43FA139D-AFB6-3B1D-809C-AA848748307A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{355D6AF0-4598-3171-9D17-819F14674BC4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{36D1CA1F-382F-3074-8742-09CFE7B48E66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5BB1F534-C7D7-3D7C-88F2-9227F0B7CF6D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{F708AB4D-86EE-3BC5-B471-286DF4C199F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{F0F1F719-3F31-3CEB-A439-D4315EA9DFCC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\c++\EpicGame\Resources\park.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\quitgame_select.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\ladder.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\nextlevel_normal.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\nextlevel_select.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\quitgame_normal.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\backKeyLeft.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\arrowActionL.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\arrowActionR.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\background.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\backKeyImage.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\arrow_die.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\about_normal.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\about_select.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\startgame_select.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\startgame_normal.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\retry_select.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\retry_normal.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\pause_click.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\pause.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
